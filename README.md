@@ -1,6 +1,6 @@
 # Apresentacao_Scrapy
 
-Repositório criado para hospedar o programa criada em Python 3.8 e Scrapy para apresentação.
+Repositório criado para hospedar o programa criado em Python 3.8 e Scrapy para apresentação.
 
 ## Funcionamento
 
